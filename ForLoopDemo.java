@@ -11,6 +11,7 @@ public class ForLoopDemo {
 	}
 
 	// Use for loop when you know the no. of times to execute the code
+// For loop 5 times
 	public static void printNameRepeatedly5Times() {
 
 	//	for (initial value; expression; increment)
