@@ -4,6 +4,9 @@ package com.test.loops;
 =======
 
 //This class demonstrates for loop
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 public class ForLoopDemo {
 
